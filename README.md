@@ -1,7 +1,7 @@
 # Hi I am Suad 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0MYt5QzV3Yt1ZcoI/giphy.gif" alt="Hello Kitty">
+  <img src="https://64.media.tumblr.com/3a2b1948e2fa7b144456f2786f4b0371/tumblr_p6w1rgqH611uf5qkqo1_400.gif" alt="Hello Kitty">
 </div>
 
 ## About me :mortar_board:
