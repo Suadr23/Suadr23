@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Hi I am Suad 👋</h1>
-<img src="https://github.com/Suadr23/Suadr23/raw/main/Hello.webp" width="200"/>
+<img src="https://media.newyorker.com/photos/59095c67ebe912338a37455d/master/pass/Stokes-Hello-Kitty2.jpg" width="200" align="right"/>
 </div>
 
 ## About me 🎓
