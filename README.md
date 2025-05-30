@@ -1,20 +1,21 @@
 # Hi I am Suad 👋
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/3a2b1948e2fa7b144456f2786f4b0371/tumblr_p6w1rgqH611uf5qkqo1_400.gif" alt="Hello Kitty">
+  <img src="https://64.media.tumblr.com/3a2b1948e2fa7b144456f2786f4b0371/tumblr_p6w1rgqH611uf5qkqo1_400.gif" alt="Hello Kitty Coding Gif">
 </div>
 
-## About me :mortar_board:
-I'm a Python enthusiast passionate about data, automation, and continuous learning.
-Currently focused on building small but meaningful projects in web scraping and data handling.**no amount of knowledge is enough knowledge**. 🧠
+## About me 🎓
+I'm a Python enthusiast passionate about data, automation, and continuous learning.  
+Currently focused on building small but meaningful projects in web scraping and data handling.  
+I firmly believe that **no amount of knowledge is enough knowledge** 🧠
 
-## What I know :computer:
+## What I know 💻
 - **Competitive Programming**
-	- Python ❤️
-	- Java
-	- Some C++
+  - Python ❤️
+  - Java
+  - Some C++
 
-## What I want to do next :thinking:
+## What I want to do next 🤔
 - Dive deeper into data extraction through web scraping and APIs  
 - Strengthen my data analysis skills using Pandas, NumPy, and visualization tools like Matplotlib & Seaborn  
 - Learn and apply ETL (Extract, Transform, Load) processes to handle raw data effectively  
@@ -22,17 +23,18 @@ Currently focused on building small but meaningful projects in web scraping and 
 - Build end-to-end mini projects covering scraping → cleaning → storing → analyzing data  
 - Work with real-world datasets and share insights through GitHub
 
-## Reach me 
-[![Github](https://img.shields.io/github/followers/Suadr23?label=Follow&style=social)](https://github.com/Suadr23)
-[![LinkedIn](https://img.shields.io/badge/-Suad%20Al%20Hashimi-blue?style=flat-square&logo=linkedin&logoColor=white)](http://linkedin.com/in/suad-al-hashimi-656788353)
+## Reach me 📫
+[![Github](https://img.shields.io/github/followers/Suadr23?label=Follow&style=social)](https://github.com/Suadr23)  
+[![LinkedIn](https://img.shields.io/badge/-Suad%20Al%20Hashimi-blue?style=flat-square&logo=linkedin&logoColor=white)](http://linkedin.com/in/suad-al-hashimi-656788353)  
 [![Mail](https://img.shields.io/badge/-Suaadr205@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red)](mailto:Suaadr205@gmail.com)
 
-### Interesting stats
+---
 
-![Suadr23's stats](https://github-readme-stats.vercel.app/api?username=Suadr23&show_icons=true)
+### 📊 GitHub Stats
 
-Thanks for stopping by! 😁
+![Suadr23's stats](https://github-readme-stats.vercel.app/api?username=Suadr23&show_icons=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suadr23&layout=compact)
 
-
+---
 
 ⭐️ From [Suadr23](https://github.com/Suadr23)
