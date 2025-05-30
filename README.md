@@ -1,7 +1,7 @@
 <div align="center">
-
-  <h1>Hi I am Suad 👋</h1>
-<img src="https://media.newyorker.com/photos/59095c67ebe912338a37455d/master/pass/Stokes-Hello-Kitty2.jpg" width="200" align="right"/>
+  <h1>Hi I am Suad </h1>
+  <br />
+  <img src="https://media.newyorker.com/photos/59095c67ebe912338a37455d/master/pass/Stokes-Hello-Kitty2.jpg" width="200"/>
 </div>
 
 ## About me 🎓
@@ -37,4 +37,4 @@ I firmly believe that **no amount of knowledge is enough knowledge** 🧠
 
 ---
 
-⭐️ From [Suadr23](https://github.com/Suadr23) 
+⭐️ From [Suadr23](https://github.com/Suadr23)
