@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Hi I am Suad 👋</h1>
-  <img src="https://64.media.tumblr.com/3a2b1948e2fa7b144456f2786f4b0371/tumblr_p6w1rgqH611uf5qkqo1_400.gif" alt="Hello Kitty Coding Gif">
+<img src="https://github.com/Suadr23/Suadr23/raw/main/Hello.webp" width="200"/>
 </div>
 
 ## About me 🎓
