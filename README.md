@@ -1,7 +1,7 @@
 # Hi I am Suad 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Cute Coding Gif">
+  <img src="https://media.giphy.com/media/l0MYt5QzV3Yt1ZcoI/giphy.gif" alt="Hello Kitty">
 </div>
 
 ## About me :mortar_board:
