@@ -5,9 +5,10 @@
 </div>
 
 ## About me 🎓
-I'm a Python enthusiast passionate about data, automation, and continuous learning.  
-Currently focused on building small but meaningful projects in web scraping and data handling.  
-I firmly believe that **no amount of knowledge is enough knowledge** 🧠
+
+I'm a Python enthusiast with a passion for data, automation, and continuous learning.
+I'm currently focused on building small but impactful projects that help me grow my skills in data handling and workflow optimization.
+I firmly believe that no amount of knowledge is enough knowledge 🧠
 
 ## What I know 💻
 - **Competitive Programming**
