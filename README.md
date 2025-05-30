@@ -1,13 +1,27 @@
 <div align="center">
 
   <h1>Hi I am Suad 👋</h1>
-  <img src="https://media.newyorker.com/photos/59095c67ebe912338a37455d/master/pass/Stokes-Hello-Kitty2.jpg" width="200" align="right"/>
+<img src="https://media.newyorker.com/photos/59095c67ebe912338a37455d/master/pass/Stokes-Hello-Kitty2.jpg" width="200" align="right"/>
 </div>
 
 ## About me 🎓
 I'm a Python enthusiast passionate about data, automation, and continuous learning.  
 Currently focused on building small but meaningful projects in web scraping and data handling.  
 I firmly believe that **no amount of knowledge is enough knowledge** 🧠
+
+## What I know 💻
+- **Competitive Programming**
+  - Python ❤️
+  - Java
+  - Some C++
+
+## What I want to do next 🤔
+- Dive deeper into data extraction through web scraping and APIs  
+- Strengthen my data analysis skills using Pandas, NumPy, and visualization tools like Matplotlib & Seaborn  
+- Learn and apply ETL (Extract, Transform, Load) processes to handle raw data effectively  
+- Start exploring the fundamentals of data engineering, including basic concepts of pipelines and scheduling tools like Apache Airflow  
+- Build end-to-end mini projects covering scraping → cleaning → storing → analyzing data  
+- Work with real-world datasets and share insights through GitHub
 
 ## Reach me 📫
 [![Github](https://img.shields.io/github/followers/Suadr23?label=Follow&style=social)](https://github.com/Suadr23)  
@@ -23,4 +37,4 @@ I firmly believe that **no amount of knowledge is enough knowledge** 🧠
 
 ---
 
-⭐️ From [Suadr23](https://github.com/Suadr23)
+⭐️ From [Suadr23](https://github.com/Suadr23) 
